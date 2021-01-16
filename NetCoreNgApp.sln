@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreNgApp.Server", "NetCoreNgApp.Server\NetCoreNgApp.Server.csproj", "{E37CDD5C-F215-40AE-BFF5-B5236232813E}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NetCoreNgApp.Client.Angular", "NetCoreNgApp.Client.Angular\NetCoreNgApp.Client.Angular.njsproj", "{8A6D2779-C2BD-4B52-8041-4CF56AB7BD9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E37CDD5C-F215-40AE-BFF5-B5236232813E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37CDD5C-F215-40AE-BFF5-B5236232813E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37CDD5C-F215-40AE-BFF5-B5236232813E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37CDD5C-F215-40AE-BFF5-B5236232813E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A6D2779-C2BD-4B52-8041-4CF56AB7BD9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6D2779-C2BD-4B52-8041-4CF56AB7BD9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6D2779-C2BD-4B52-8041-4CF56AB7BD9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6D2779-C2BD-4B52-8041-4CF56AB7BD9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3527B99-1F9C-403C-B3A7-666D7A7695F6}
+	EndGlobalSection
+EndGlobal
